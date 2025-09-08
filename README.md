@@ -15,10 +15,8 @@ Here I’ve collected a mix of **front-end projects, prototypes, and case notes*
 ## This repository includes  
 
 - 💻 **Demo projects** – code samples built with modern frameworks (React, Next.js, Tailwind).  
-- 📑 **Case notes** – short write-ups describing real-world projects I contributed to (e.g., Agência Gov, Rádio Gov), including the challenges, solutions, and results.<br>
-
-> Below are a few selected case notes highlighting real-world projects and a personal demo aligned with modern stacks.
-
+- 📑 **Case notes** – short write-ups describing real-world projects I contributed to (e.g., Agência Gov, Rádio Gov), including the challenges, solutions, and results.
+  > Below are a few selected case notes highlighting real-world projects and a personal demo aligned with modern stacks.
 - 🎨 **UX design work** – prototypes and wireframes created in Figma.
 
 ## Case Notes  
