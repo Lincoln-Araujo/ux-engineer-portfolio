@@ -84,7 +84,7 @@ A new platform for distributing government audio content, making national and re
 ---
 
 ### 3. UX Guidelines Explorer (Demo Project)  
-A demo project created during my postgraduate course to practice **Next.js + Tailwind** with accessibility, filtering, pagination, and a mock scanner. I **designed the layouts and coded the entire app myself**.  
+A demo project created based on Baymard’s descriptions of the catalog and scanner to practice **Next.js + Tailwind** with accessibility, filtering, pagination, and a mock scanner. I **designed the layouts and coded the entire app myself**.  
 
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white&style=flat)
