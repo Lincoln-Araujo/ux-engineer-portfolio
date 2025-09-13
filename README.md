@@ -50,7 +50,14 @@ I prioritize turning concepts into working code quickly, ensuring **accessibilit
 ## 🌐 Featured Projects  
 
 ### 1. Agência Gov (Government News Portal)  
-Official Brazilian Federal Government news portal, redesigned for accessibility, speed, and usability. I **designed and implemented the frontend end-to-end**.  
+Official Brazilian Federal Government news portal, redesigned for accessibility, speed, and usability. I **designed and implemented the front end end-to-end**.  
+
+**Tech Stack:**  
+![Plone](https://img.shields.io/badge/Plone-CMS-004B7C?logo=plone&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 - 🌍 [Website](https://agenciagov.ebc.com.br)  
 - 🎨 [Figma design](https://www.figma.com/design/TGeswzQ7m1L4wQFX27afpe/Agencia-Gov-2.0?node-id=0-1&t=4Ll4zzGLD9l6HcdS-1)  
@@ -60,7 +67,14 @@ Official Brazilian Federal Government news portal, redesigned for accessibility,
 ---
 
 ### 2. Rádio Gov  
-A new platform for distributing government audio content, making national and regional radio more accessible online. I **designed and implemented the frontend end-to-end**.  
+A new platform for distributing government audio content, making national and regional radio more accessible online. I **designed and implemented the front end end-to-end**.  
+
+**Tech Stack:**  
+![Plone](https://img.shields.io/badge/Plone-CMS-004B7C?logo=plone&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 - 🌍 [Website](https://radiogov.ebc.com.br)  
 - 🎨 [Figma design](https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=679-567&t=4Ll4zzGLD9l6HcdS-1)  
@@ -70,12 +84,20 @@ A new platform for distributing government audio content, making national and re
 ---
 
 ### 3. UX Guidelines Explorer (Demo Project)  
-A demo project created during my postgraduate course to practice **Next.js + Tailwind** with accessibility, filtering, pagination, and a mock scanner. I **designed the layouts and coded the app**.  
+A demo project created during my postgraduate course to practice **Next.js + Tailwind** with accessibility, filtering, pagination, and a mock scanner. I **designed the layouts and coded the entire app myself**.  
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![Vitest](https://img.shields.io/badge/Tested_with-Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 - 📂 [Repository](https://github.com/Lincoln-Araujo/ux-guidelines-explorer)  
 - 🎨 [Figma design](https://www.figma.com/design/CTVrm4cm13PwE2LLFPyXcG/UX-Guidelines-Explorer?node-id=0-1&t=4Ll4zzGLD9l6HcdS-1)  
 - 🖼 Screenshot:  
   ![UX Guidelines Explorer](./public/screenshots/ux-guidelines-explorer.png)  
+
 
 ---
 
