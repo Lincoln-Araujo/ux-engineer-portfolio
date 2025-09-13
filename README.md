@@ -93,7 +93,7 @@ A demo project created based on Baymard’s descriptions of the catalog and scan
 ![Vitest](https://img.shields.io/badge/Tested_with-Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-- 📂 [Repository](https://github.com/Lincoln-Araujo/ux-guidelines-explorer)  
+- 📂 [Repository](https://github.com/Lincoln-Araujo/ux-guideline-explorer)  
 - 🎨 [Figma design](https://www.figma.com/design/CTVrm4cm13PwE2LLFPyXcG/UX-Guidelines-Explorer?node-id=0-1&t=4Ll4zzGLD9l6HcdS-1)  
 - 🖼 Screenshot:  
   ![UX Guidelines Explorer](./public/screenshots/ux-guidelines-explorer.png)  
