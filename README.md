@@ -60,7 +60,7 @@ Official Brazilian Federal Government news portal, redesigned for accessibility,
 ---
 
 ### 2. Rádio Gov  
-A new platform for distributing government audio content, making national and regional radio more accessible online. I **designed and implemented the front end end-to-end**.  
+A new platform for distributing government audio content, making national and regional radio more accessible online. I **designed and implemented the frontend end-to-end**.  
 
 - 🌍 [Website](https://radiogov.ebc.com.br)  
 - 🎨 [Figma design](https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=679-567&t=4Ll4zzGLD9l6HcdS-1)  
