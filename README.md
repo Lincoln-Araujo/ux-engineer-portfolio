@@ -59,14 +59,15 @@ The official website of Empresa Brasil de Comunicação (EBC), designed to centr
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-- 🌍 [Website](https://ebc.com.br)  
+- 🌍 [Website](https://ebc.com.br)
+- 🎨 [Figma Design](https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=2229-2&t=7uqUqhy7FbDil8LM-1)
 - 🖼 Screenshot:  
   ![Portal EBC](./public/screenshots/portalebc.png)  
 
 ---
 
 ### 2. Acesso à Informação (Transparency Portal)  
-A transparency portal built as an extension of the EBC institutional site, designed to meet CGU’s public communication requirements. Developed in **Plone 5**, it organizes and presents information such as reports, contracts, and institutional data in a user-friendly and accessible way.  
+A transparency portal built as an extension of the EBC institutional site, designed to meet The Comptroller General of the Union (CGU)'s public communication requirements. Developed in **Plone 5**, it organizes and presents information such as reports, contracts, and institutional data in a user-friendly and accessible way.  
 
 **Tech Stack:**  
 ![Plone](https://img.shields.io/badge/Plone-5-004B7C?logo=plone&logoColor=white&style=flat)
@@ -74,14 +75,15 @@ A transparency portal built as an extension of the EBC institutional site, desig
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-- 🌍 [Website](https://acessoainformacao.ebc.com.br/)  
+- 🌍 [Website](https://acessoainformacao.ebc.com.br/)
+-  🎨 [Figma Design](https://www.figma.com/design/ZfZp2zdvANvp1mMpBs9qxA/Acesso-%C3%A0-Informa%C3%A7%C3%A3o---EBC?node-id=1-1502&t=NTGvwv1wL814doBI-1) 
 - 🖼 Screenshot:  
   ![Acesso à Informação](./public/screenshots/acessoainformacao.png)  
 
 ---
 
 ### 3. Canal Educação  
-A website developed for MEC’s *Canal Educação*, part of EBC’s educational initiatives. I was responsible for the **responsive layout and interactive components**, including a custom carousel and animated header menu. The project focuses on delivering accessible educational content through a dynamic and visually clean interface.  
+A video-on-demand platform developed for the **Ministry of Education (MEC)**, managed and maintained by EBC. The website makes available the TV programs produced and broadcast by Canal Educação, allowing **students, teachers, and the general public** to **watch or download** educational content. I worked on the **responsive layout, interactive components**, and the **overall UX**, including a custom carousel and animated navigation menu.  
 
 **Tech Stack:**  
 ![Plone](https://img.shields.io/badge/Plone-5-004B7C?logo=plone&logoColor=white&style=flat)
@@ -90,7 +92,8 @@ A website developed for MEC’s *Canal Educação*, part of EBC’s educational 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-- 🌍 [Website](https://canaleducacao.ebc.com.br)  
+- 🌍 [Website](https://canaleducacao.ebc.com.br)
+-  🎨 [Figma Design](https://www.figma.com/design/lYIXXn6yK6ePXGKNey84Eo/Canal-Educa%C3%A7%C3%A3o?node-id=2077-2&t=rBDRlkAFFEujZWnB-1)
 - 🖼 Screenshot:  
   ![Canal Educação](./public/screenshots/canaleducacao.png)  
 
