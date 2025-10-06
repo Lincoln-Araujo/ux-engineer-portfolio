@@ -49,7 +49,54 @@ I prioritize turning concepts into working code quickly, ensuring **accessibilit
 
 ## 🌐 Featured Projects  
 
-### 1. Agência Gov (Government News Portal)  
+### 1. Portal EBC (Institutional Website)  
+The official website of Empresa Brasil de Comunicação (EBC), designed to centralize institutional content and highlight the company’s public communication initiatives. I worked on the **front-end development**, ensuring accessibility, responsive design, and content integration across all EBC platforms.  
+
+**Tech Stack:**  
+![Plone](https://img.shields.io/badge/Plone-5-004B7C?logo=plone&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+- 🌍 [Website](https://ebc.com.br)  
+- 🖼 Screenshot:  
+  ![Portal EBC](./public/screenshots/portalebc.png)  
+
+---
+
+### 2. Acesso à Informação (Transparency Portal)  
+A transparency portal built as an extension of the EBC institutional site, designed to meet CGU’s public communication requirements. Developed in **Plone 5**, it organizes and presents information such as reports, contracts, and institutional data in a user-friendly and accessible way.  
+
+**Tech Stack:**  
+![Plone](https://img.shields.io/badge/Plone-5-004B7C?logo=plone&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+- 🌍 [Website](https://acessoainformacao.ebc.com.br/)  
+- 🖼 Screenshot:  
+  ![Acesso à Informação](./public/screenshots/acessoainformacao.png)  
+
+---
+
+### 3. Canal Educação  
+A website developed for MEC’s *Canal Educação*, part of EBC’s educational initiatives. I was responsible for the **responsive layout and interactive components**, including a custom carousel and animated header menu. The project focuses on delivering accessible educational content through a dynamic and visually clean interface.  
+
+**Tech Stack:**  
+![Plone](https://img.shields.io/badge/Plone-5-004B7C?logo=plone&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+- 🌍 [Website](https://canaleducacao.ebc.com.br)  
+- 🖼 Screenshot:  
+  ![Canal Educação](./public/screenshots/canaleducacao.png)  
+
+---
+
+### 4. Agência Gov (Government News Portal)  
 Official Brazilian Federal Government news portal, redesigned for accessibility, speed, and usability. I **designed and implemented the front end end-to-end**.  
 
 **Tech Stack:**  
@@ -66,7 +113,7 @@ Official Brazilian Federal Government news portal, redesigned for accessibility,
 
 ---
 
-### 2. Rádio Gov  
+### 5. Rádio Gov  
 A new platform for distributing government audio content, making national and regional radio more accessible online. I **designed and implemented the front end end-to-end**.  
 
 **Tech Stack:**  
@@ -83,7 +130,7 @@ A new platform for distributing government audio content, making national and re
 
 ---
 
-### 3. UX Guidelines Explorer (Demo Project)  
+### 6. UX Guidelines Explorer (Demo Project)  
 A demo project created based on Baymard’s descriptions of the catalog and scanner to practice **Next.js + Tailwind** with accessibility, filtering, pagination, and a mock scanner. I **designed the layouts and coded the entire app myself**.  
 
 **Tech Stack:**  
@@ -97,7 +144,6 @@ A demo project created based on Baymard’s descriptions of the catalog and scan
 - 🎨 [Figma design](https://www.figma.com/design/CTVrm4cm13PwE2LLFPyXcG/UX-Guidelines-Explorer?node-id=0-1&t=4Ll4zzGLD9l6HcdS-1)  
 - 🖼 Screenshot:  
   ![UX Guidelines Explorer](./public/screenshots/ux-guidelines-explorer.png)  
-
 
 ---
 
